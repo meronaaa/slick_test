@@ -1,0 +1,10 @@
+.test_area {
+  width: 1200px;
+  height: 600px;
+  margin: 100px auto;
+  border: 1px solid rgb(148, 148, 148);
+  box-sizing: border-box;
+}
+.slider-nav {
+  height: 100px;
+}
